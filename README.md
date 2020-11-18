@@ -1,3 +1,5 @@
+![Banner](https://github.com/Farazqureshi999/farazqureshi999/blob/main/assets/Faraz%20Qureshi.png)
+
 ### Hi there 👋
 
 <!--
