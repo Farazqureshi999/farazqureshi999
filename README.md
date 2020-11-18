@@ -1,5 +1,10 @@
 ![Banner](https://github.com/Farazqureshi999/farazqureshi999/blob/main/assets/Faraz%20Qureshi.png)
 
+<!-- retro visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />
+</p>
+
 ### Hi there 👋
 
 <!--
