@@ -2,7 +2,7 @@
 
 <!-- retro visitor counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/farazqureshi999/count.svg" />
+  ![Profile views counter](https://komarev.com/ghpvc/?username=farazqureshi999&&style=flat-square)
 </p>
 
 ## Hey 👋, I'm Rishav Anand!
@@ -115,13 +115,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>
 
 <br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
-
-<br/>
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
