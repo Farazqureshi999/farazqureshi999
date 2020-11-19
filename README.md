@@ -1,9 +1,6 @@
 ![Banner](https://github.com/Farazqureshi999/farazqureshi999/blob/main/assets/Faraz%20Qureshi.png)
 
-<!-- retro visitor counter -->
-<p align="center">
-  ![Profile views counter](https://komarev.com/ghpvc/?username=farazqureshi999&&style=flat-square)
-</p>
+![Profile views counter](https://komarev.com/ghpvc/?username=farazqureshi999&&style=flat-square)
 
 ## Hey 👋, I'm Rishav Anand!
 
@@ -111,7 +108,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-<br/>
-
-<br/>
