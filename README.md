@@ -1,3 +1,10 @@
+![Banner](https://github.com/Farazqureshi999/farazqureshi999/blob/main/assets/Faraz%20Qureshi.png)
+
+<!-- retro visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/farazqureshi999/count.svg" />
+</p>
+
 ## Hey 👋, I'm Rishav Anand!
 
 <a href="https://github.com/rishavanand" target="_blank">
